@@ -1,0 +1,10 @@
+C:\Users\telos\source\repos\Project3\ClientEx1\bin\Debug\ClientEx1.exe.config
+C:\Users\telos\source\repos\Project3\ClientEx1\bin\Debug\ClientEx1.exe
+C:\Users\telos\source\repos\Project3\ClientEx1\bin\Debug\ClientEx1.pdb
+C:\Users\telos\source\repos\Project3\ClientEx1\obj\Debug\ClientEx1.csprojAssemblyReference.cache
+C:\Users\telos\source\repos\Project3\ClientEx1\obj\Debug\ClientEx1.Form1.resources
+C:\Users\telos\source\repos\Project3\ClientEx1\obj\Debug\ClientEx1.Properties.Resources.resources
+C:\Users\telos\source\repos\Project3\ClientEx1\obj\Debug\ClientEx1.csproj.GenerateResource.cache
+C:\Users\telos\source\repos\Project3\ClientEx1\obj\Debug\ClientEx1.csproj.CoreCompileInputs.cache
+C:\Users\telos\source\repos\Project3\ClientEx1\obj\Debug\ClientEx1.exe
+C:\Users\telos\source\repos\Project3\ClientEx1\obj\Debug\ClientEx1.pdb
